@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @saurabh8github
+- 👋 Hi, I’m Saurabh Bhari
 - <hr> 
 - 👀 I’m interested in programming languages
 - 🌱 I’m currently learning c,HTML,CSS,JS
